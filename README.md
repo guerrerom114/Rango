@@ -1,5 +1,5 @@
 # Que es un rango
-## Table of Contents
+## Tipos de rango
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
