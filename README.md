@@ -1,7 +1,7 @@
 # Que es un rango?.
 ## Tipos de rango?.
 1. [Analisis tecnico](#Analisis-tecnico)
-2. [Soportes](#soportes)
+2. [Soportes.](#soportes.)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
