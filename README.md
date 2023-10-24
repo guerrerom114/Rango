@@ -1,4 +1,4 @@
-# Que es un rango.
+# Que es un rango...
 ## Tipos de rango?.
 1. [Analisis tecnico.](#Analisis-tecnico.)
 2. [Soportes.](#soportes.)
